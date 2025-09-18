@@ -1,4 +1,4 @@
-# Paradigmas-TP1-IgnacioMilone
+# Paradigmas-TP1-IgnacioMilone-ExequielAlaniz
 TP1 De la materia paradigmas de programacion
   ## CONTENIDOS: 
   - EJERCICIO 1 (teoria sobre JavaScript) ✔️
