@@ -1,5 +1,7 @@
 # Paradigmas-TP1-IgnacioMilone-ExequielAlaniz
-TP1 De la materia paradigmas de programacion
+TP1 De la materia paradigmas de programacion hecho por los alumnos de Ingenieria En Sistemas
+- Exequiel Alaniz
+- Ignacio Milone
   ## CONTENIDOS: 
   - EJERCICIO 1 (teoria sobre JavaScript) ✔️
   - EJERCICIO 2 (calculadora basica) ✔️
